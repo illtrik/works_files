@@ -1,0 +1,9 @@
+=== Содержимое resource/file1.txt ===
+
+
+=== Содержимое resource/file2.txt ===
+
+
+=== Содержимое resource/file3.txt ===
+
+
